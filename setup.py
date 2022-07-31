@@ -9,7 +9,7 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'crypto-disco'
+NAME = 'cryptodisco'
 DESCRIPTION = 'crypto-disco'
 URL = 'https://github.com/j0hanj0han/crypto-disco'
 EMAIL = 'johan.chapelain@gmail.com'
